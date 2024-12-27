@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "5c1c8746611d5efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f02c225e966e0460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61ea3a34729145fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "服务器/hexo部署服务器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed8979562c072ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5ad7cc86b38638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8ec158d953c6cd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "541e96bc3a59f5f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#初始化一个名叫taiblog的仓库",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fc31f2af0c6a878",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "db827d5263e72dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c49b5054617ac5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91c0e2c4c0765c54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "服务器/hexo部署服务器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c80909ac69a088f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "服务器/hexo部署服务器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb9449588c54039f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9988692adb09bbfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "服务器/hexo部署服务器.md"
+              }
+            }
+          },
+          {
+            "id": "4dff53f4420f44ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "pkmer:Open Pkmer Market": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "541e96bc3a59f5f7",
+  "lastOpenFiles": [
+    "案例/福州“橄榄五大厝” 驯化论.md",
+    "服务器/hexo部署服务器.md",
+    "案例/越南胡志明市国际会议中心.md",
+    "案例/麓湖一片森林儿童博物馆.md",
+    "案例/墨西哥 · 社区发展中心.md",
+    "案例/在花园里旅行.md",
+    "undefined.md",
+    "案例/TROP介绍.md",
+    "案例/Fosbury & Sons 新型办公空间.md",
+    "案例/Snøhetta为Art Basel香港展设计VIP休息室.md",
+    "案例/大象三明治.md",
+    "服务器/Docker相关.md",
+    "未命名",
+    "案例/翠逸谧境.md",
+    "小红书文案/第七期.md",
+    "小红书文案/第六期.md",
+    "日记/未命名.md",
+    "小红书文案",
+    "公司/展陈方案.md",
+    "公司/未命名.md",
+    "公司/蕨类展陈.md",
+    "公司/五月会议.md",
+    "公司/公共休闲空间的植物陈列.md",
+    "日记/AI.md",
+    "日记/追梦赤子心.md",
+    "日记/写作思路.md",
+    "日记/如何剖析案例.md",
+    "日记/北京旅游攻略.md",
+    "公司/安与雷LOGO/MEDIAN｜加粗LOGO-绿.png",
+    "公司/安与雷LOGO/文字LOGO-竖-绿.png",
+    "公司/安与雷LOGO/文字LOGO-竖-白.png",
+    "公司/安与雷LOGO/文字LOGO-横-绿.png",
+    "公司/安与雷LOGO/文字LOGO-横-白.png",
+    "公司/安与雷LOGO/安与雷logo-完整-绿.png",
+    "公司/安与雷LOGO/安与雷logo-完整-白.png",
+    "公司/安与雷LOGO",
+    "服务器/surge/surge基础分流规则.conf",
+    "服务器/surge/mao.conf",
+    "服务器/surge",
+    "A piece栗子/对照表.pdf",
+    "公司/ZTE中兴展厅工程量清单20240520.xlsx",
+    "_obsidian",
+    "日记",
+    "未命名.canvas"
+  ]
+}

@@ -1,0 +1,83 @@
+- class_name: 好看的壁纸
+  path_name: /wordScenery
+  type: 2
+  description: 网络上收集的各种桌面壁纸
+  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
+  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2024/12/27 01:00:00
+      content: 风景
+      address: 世界各地
+      from: 阿制
+      image:
+        - https://lizi.s3.bitiful.net/2024/12/bizhi11.jpg
+        - https://lizi.s3.bitiful.net/2024/12/bizhi17.jpg
+        - https://lizi.s3.bitiful.net/2024/12/bizhi19.jpg
+        - https://lizi.s3.bitiful.net/2024/12/bizhi9.jpg
+        - https://lizi.s3.bitiful.net/2024/12/bizhi13.jpg
+        - https://lizi.s3.bitiful.net/2024/12/bizhi1.jpg
+        - https://lizi.s3.bitiful.net/2024/12/bizhi3.jpg
+        - https://lizi.s3.bitiful.net/2024/12/bizhi5.jpg
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://lizi.s3.bitiful.net/2024/12/caocao.jpg
+  cover: https://lizi.s3.bitiful.net/2024/12/qiuqiu.jpg
+  album_list:
+    - date: 2022-10-24
+      content: 蘑菇
+      image:
+        - https://lizi.s3.bitiful.net/2024/12/mogu.jpg
+
+    - date: 2022-10-24
+      content: 仙人掌
+      image:
+        - https://lizi.s3.bitiful.net/2024/12/shasheng.jpg    
+
+
+- class_name: 案例
+  path_name: /case
+  type: 1
+  description: 这里存放的是我的一些案例。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://lizi.s3.bitiful.net/2024/12/case8.jpg
+  cover: https://lizi.s3.bitiful.net/2024/12/case2.jpg
+  album_list:
+    - date: 2024-12-27
+      content: 写实
+      image:
+        - https://lizi.s3.bitiful.net/2024/12/case2.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case3.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case4.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case5.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case6.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case7.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case8.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case13.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case14.jpg
+
+    - date: 2024-12-27
+      content: 漫画
+      image:
+        - https://lizi.s3.bitiful.net/2024/12/case9.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case10.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case11.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case12.jpg
+       
+    - date: 2024-12-27
+      content: 其他
+      image:
+        - https://lizi.s3.bitiful.net/2024/12/case1.jpg
+        - https://lizi.s3.bitiful.net/2024/12/case15.jpg

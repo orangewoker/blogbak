@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "5c1c8746611d5efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fcd9f65200c966e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44759de3d5fe7b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/天津安与雷园艺中心店.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "天津安与雷园艺中心店"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed8979562c072ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5ad7cc86b38638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8ec158d953c6cd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "541e96bc3a59f5f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#初始化一个名叫taiblog的仓库",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2fc31f2af0c6a878",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "db827d5263e72dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c49b5054617ac5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91c0e2c4c0765c54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "坡空间.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "坡空间 的反向链接列表"
+            }
+          },
+          {
+            "id": "c80909ac69a088f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "坡空间.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "坡空间 的出链列表"
+            }
+          },
+          {
+            "id": "bb9449588c54039f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9988692adb09bbfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "坡空间.md"
+              },
+              "icon": "lucide-list",
+              "title": "坡空间 的大纲"
+            }
+          },
+          {
+            "id": "4dff53f4420f44ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "pkmer:Open Pkmer Market": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "44759de3d5fe7b8e",
+  "lastOpenFiles": [
+    "_posts/2024安装hexo和next并部署到github和服务器.md",
+    "_posts/安与雷蘑街店.md",
+    "about/index.md",
+    "_posts/FFVV咖啡店.md",
+    "_posts/Fosbury & Sons 新型办公空间.md",
+    "_posts/TROP景观.md",
+    "_posts/ZZ住宅改造.md",
+    "_posts/安与雷遂宁店.md",
+    "_posts/合肥-安与雷园艺中心.md",
+    "_posts/场所与照度Lux的关系.md",
+    "_posts/安与雷石狮中心店.md",
+    "_posts/翠逸谧境.md",
+    "_posts/大象三明治.md",
+    "_posts/“橄榄五大厝” 驯化论.md",
+    "_posts/紫阳国际屋顶花园.md",
+    "_posts/乐清自由旷野营地主题乐园.md",
+    "_posts/景观案例_C25.md",
+    "_posts/一片森林儿童博物馆.md",
+    "_posts/墨西哥 · 社区发展中心.md",
+    "_posts/南昌华润万象城.md",
+    "_posts/坡空间.md",
+    "_posts/七日食.md",
+    "_posts/山林湖畔间.md",
+    "_posts/RHAA景观案例.md",
+    "_posts/天边的云.md",
+    "_posts/微木花境.md",
+    "Win Blog/resources/app.asar.unpacked/node_modules/get-fonts/binding.node",
+    "Win Blog/resources/app.asar.unpacked/node_modules/btime/binding.node",
+    "Win Blog/resources/app.asar.unpacked/node_modules/get-fonts",
+    "Win Blog/resources/app.asar.unpacked/node_modules/btime",
+    "Win Blog/resources/app.asar.unpacked/node_modules",
+    "Win Blog/locales/zh-TW.pak",
+    "Win Blog/locales/vi.pak",
+    "Win Blog/locales/zh-CN.pak",
+    "Win Blog/locales/ur.pak",
+    "Win Blog/locales/uk.pak",
+    "公司/安与雷LOGO/MEDIAN｜加粗LOGO-绿.png",
+    "公司/安与雷LOGO/文字LOGO-竖-绿.png",
+    "公司/安与雷LOGO/文字LOGO-竖-白.png",
+    "公司/安与雷LOGO/文字LOGO-横-绿.png",
+    "公司/安与雷LOGO/文字LOGO-横-白.png",
+    "公司/安与雷LOGO/安与雷logo-完整-绿.png",
+    "公司/安与雷LOGO/安与雷logo-完整-白.png",
+    "未命名.canvas"
+  ]
+}
